@@ -7,7 +7,7 @@
 ## 🚀 Very Easy Projects (6)
 
 #### Source Codes :
-- [ ] [1. Calculator]()
+- [x] [1. Calculator](https://github.com/Mobin-Karam/cprojects/blob/master/calculator/calc.c)
 - [ ] [2. Even / Odd Checker]()
 - [ ] [3. Factorial]()
 - [ ] [4. Guessing Game]()
