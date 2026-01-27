@@ -2,6 +2,12 @@
 
 ### This repository contains all the projects I built while learning the C programming language.
 
+
+- [🚀 Very Easy Projects](#-very-easy-projects-6)
+- [🟢 Easy Projects](#-easy-projects-7)
+- [🟠 Beginner Projects](#-beginner-projects-5)
+- [🔵 Advanced Projects](#-advanced-projects-2-optional)
+- [📌 Goal](#-goal)
 ---
 
 ## 🚀 Very Easy Projects (6)
