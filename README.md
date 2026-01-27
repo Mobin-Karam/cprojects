@@ -15,7 +15,7 @@
 #### Source Codes :
 - [x] [1. Calculator](https://github.com/Mobin-Karam/cprojects/blob/master/01-calculator/main.c)
 - [x] [2. Even / Odd Checker](https://github.com/Mobin-Karam/cprojects/blob/master/02-even-odd/main.c)
-- [ ] [3. Factorial]()
+- [x] [3. Factorial](https://github.com/Mobin-Karam/cprojects/blob/master/03-factorial/main.c)
 - [ ] [4. Guessing Game]()
 - [ ] [5. Temperature Converter]()
 - [ ] [6. Prime Checker]()
