@@ -10,13 +10,13 @@ int main() {
 	printf("***Welcome to my calculator.***\n");
 		
 	do {
-		printf("\tEnter First Number: ");
+		printf("Enter First Number: ");
 		scanf(" %d", &firstNumber);
 	
-		printf("\tEnter Operator: ");
+		printf("Enter Operator: ");
 		scanf(" %c", &operator);
 	
-		printf("\tEnter Second Number: ");
+		printf("Enter Second Number: ");
 		scanf(" %d", &secondNumber);
 	
 	
