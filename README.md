@@ -16,7 +16,7 @@
 - [x] [1. Calculator](https://github.com/Mobin-Karam/cprojects/blob/master/01-calculator/main.c)
 - [x] [2. Even / Odd Checker](https://github.com/Mobin-Karam/cprojects/blob/master/02-even-odd/main.c)
 - [x] [3. Factorial](https://github.com/Mobin-Karam/cprojects/blob/master/03-factorial/main.c)
-- [ ] [4. Guessing Game]()
+- [x] [4. Guessing Game](https://github.com/Mobin-Karam/cprojects/blob/master/04-guessing-game/main.c)
 - [ ] [5. Temperature Converter]()
 - [ ] [6. Prime Checker]()
 
