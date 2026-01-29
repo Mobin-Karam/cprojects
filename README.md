@@ -18,7 +18,7 @@
 - [x] [3. Factorial](https://github.com/Mobin-Karam/cprojects/blob/master/03-factorial/main.c)
 - [x] [4. Guessing Game](https://github.com/Mobin-Karam/cprojects/blob/master/04-guessing-game/main.c)
 - [x] [5. Temperature Converter](https://github.com/Mobin-Karam/cprojects/blob/master/04-guessing-game/main.c)
-- [ ] [6. Prime Checker]()
+- [x] [6. Prime Checker](https://github.com/Mobin-Karam/cprojects/blob/master/04-guessing-game/main.c)
 
 ---
 
