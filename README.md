@@ -17,15 +17,15 @@
 - [x] [2. Even / Odd Checker](https://github.com/Mobin-Karam/cprojects/blob/master/02-even-odd/main.c)
 - [x] [3. Factorial](https://github.com/Mobin-Karam/cprojects/blob/master/03-factorial/main.c)
 - [x] [4. Guessing Game](https://github.com/Mobin-Karam/cprojects/blob/master/04-guessing-game/main.c)
-- [x] [5. Temperature Converter](https://github.com/Mobin-Karam/cprojects/blob/master/04-guessing-game/main.c)
-- [x] [6. Prime Checker](https://github.com/Mobin-Karam/cprojects/blob/master/04-guessing-game/main.c)
+- [x] [5. Temperature Converter](https://github.com/Mobin-Karam/cprojects/blob/master/05-temperature-converter/main.c)
+- [x] [6. Prime Checker](https://github.com/Mobin-Karam/cprojects/blob/master/06-prime-checker/main.c)
 
 ---
 
 ## 🟢 Easy Projects (7)
 
 #### Source Codes :
-- [ ] [7. ATM Menu]()
+- [x] [7. ATM Menu](https://github.com/Mobin-Karam/cprojects/blob/master/07-atm-menu/main.c)
 - [ ] [8. Grade Average]()
 - [ ] [9. Sorting Program]()
 - [ ] [10. Password Login]()
